@@ -8,11 +8,11 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Intro to Data Science
 
-**Hobbies:** Video game stuff, drawing, modeling
+**Hobbies:** Video game stuff, drawing, clay modeling
 
 I am _passionate about_: 
 
-- Character Design
+- Character Design/Art
 
 - Gardening
 
