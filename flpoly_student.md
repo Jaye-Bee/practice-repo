@@ -1,26 +1,24 @@
-## First Name Last Name
+## Jena Baxter
 
-### Term Year 
+### 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- PreCalculus
 
-- Course 2
+- Intro to Data Science
 
-- Course 3
-
-- Course 4
-
-**Hobbies:**
+**Hobbies:** Video game stuff, drawing, modeling
 
 I am _passionate about_: 
 
-- Thing 1
+- Character Design
 
-- Thing 2
+- Gardening
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Writing Analysis 
+
+- Rocks/Gems
 
 ***
 
