@@ -1,14 +1,18 @@
-[flpoly_student.md](https://github.com/Jaye-Bee/practice-repo/files/6852264/flpoly_student.md)
-
 ## Jena Baxter
 
 ### 2021 
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in:
 
-- PreCalculus
 
-- Intro to Data Science
+
+| **Prefix** | **Number** | _Name_ |
+| :--------: | :--------: | :----: |
+|  **COP**   |  **2073**  | _Intro To Data Science_ |
+|  **MAC**   |  **1147**  | _PreCalculus_ |
+
+
+
 
 **Hobbies:** Video game stuff, drawing, clay modeling
 
